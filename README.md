@@ -31,3 +31,5 @@ It is a very nice project to work with for students, educators, or anyone intere
 
 To run this application, ensure you have Python installed along with the necessary libraries. Clone this repository and run main.py to start exploring cities!
 ## Screenshots
+
+Screenshot 2024-10-19 at 15.25.21.png
