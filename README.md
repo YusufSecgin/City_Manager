@@ -33,3 +33,5 @@ To run this application, ensure you have Python installed along with the necessa
 ## Screenshots
 
 ![Screenshot](https://github.com/YusufSecgin/City_Manager/blob/main/mainPage.png)
+
+![Screenshot](https://github.com/YusufSecgin/City_Manager/blob/main/cityInfo.png)
